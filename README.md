@@ -28,7 +28,7 @@ pip install python-telegram-bot --upgrade
 5. Run the bot:
 
 ```bash
-python bot.py
+python zapata.py
 ```
 
 ## 📝 License
